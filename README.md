@@ -1,4 +1,4 @@
-### Quiz App
+# Quiz App
 
 - This application was developed with Typescript.
 
